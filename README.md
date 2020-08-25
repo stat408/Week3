@@ -1,4 +1,4 @@
-Overview of Week 2 activities for STAT 408
+Overview of Week 3 activities for STAT 408
 
 - HW 2 is due at 10 AM on your assigned lecture day, either September 1 or September 3
 - Lab 2 is also due at 10 AM on your assigned lecture day 
